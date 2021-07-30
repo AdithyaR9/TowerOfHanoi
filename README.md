@@ -3,7 +3,10 @@
 Created August 2019
 Uploaded July 30 2021
 
+Note: This program uses the JavaFX library, make sure it is downloaded and linked to your IDE properly for the program to function. 
+
 This is the classic Tower of Hanoi Game that implements a Stack. 
+This is a JavaFX game, which is drawn to and played on a new window on the screen.
 
 -> The movements for the game must be done with keys 1, 2 and 3.
 
